@@ -18,3 +18,5 @@ The C# ASP.NET backend is located [here](KiepVisitorRegistration/). Enter your M
 ![Screenshot](Screenshot1.png "Screenshot")
 ![Screenshot](Screenshot2.png "Screenshot")
 ![Screenshot](Screenshot3.png "Screenshot")
+
+See [KiepProjects](https://github.com/Joozt/KiepProjects) for an overview of all Kiep projects.
